@@ -11,6 +11,7 @@ This project is a basic API built using Python and Flask. It provides a simple i
 3.Run the application
         `python carlib.py`
 
+
 ## Usage
 The API should have the following endpoints (only get was succesfully executed):
 

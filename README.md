@@ -7,9 +7,8 @@ Clone the repository
 git clone https://github.com/AdamChocholski/CarsProjeckt
 
 Install the required packages
-pip install -r 
-Flask==2.2.2
-Flask-RESTful==0.3.9
+pip install -r requirements.txt
+
 
 Run the application
 python server.py
@@ -19,7 +18,7 @@ The API should have the following endpoints (only get was succesfully executed):
 
 GET /cars Retrieves a list of all items in the database
 GET /cars/ Retrieves a specific item by its id
-POST /quotes Creates a new item in the database The request body should be in the following format:
+POST /cars Creates a new item in the database The request body should be in the following format:
 {
 "id": "id",
 "brand": "brand-name",

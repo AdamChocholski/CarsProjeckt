@@ -8,9 +8,9 @@ This project is a basic API built using Python and Flask. It provides a simple i
 
 2. Install the required packages
     `pip install -r requirements.txt`
+    
 3.Run the application
         `python carlib.py`
-
 
 ## Usage
 The API should have the following endpoints (only get was succesfully executed):

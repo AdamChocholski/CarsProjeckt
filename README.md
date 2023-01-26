@@ -1,6 +1,6 @@
 # CarsProjeckt
 Overview
-This project is a basic API built using Python and Flask. It provides a simple interface for interacting with a database of quotes about AI.
+This project is a basic API built using Python and Flask. It provides a simple interface for interacting with a database of cars and brands.
 
 Installation
 Clone the repository
